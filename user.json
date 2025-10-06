@@ -26,7 +26,7 @@
             "password": "1",
             "subscription": "tester",
             "expiry": "2026-12-31",
-            "device_id": "1a5776fb6164845c"
+            "device_id": ""
         },
         {
             "username": "owner",
