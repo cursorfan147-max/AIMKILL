@@ -1,0 +1,39 @@
+{
+    "admin": [
+        {
+            "username": "admin",
+            "password": "FAIZAN",
+            "subscription": "aimkillapk",
+            "expiry": "2025-12-31",
+            "device_id": ""
+        },
+        {
+            "username": "SHIVANG",
+            "password": "11",
+            "subscription": "tester",
+            "expiry": "2025-12-31",
+            "device_id": "4afdaa486d4c4e79"
+        },
+        {
+            "username": "REG",
+            "password": "11",
+            "subscription": "tester",
+            "expiry": "2025-12-31",
+            "device_id": "e045899dc848e295"
+        },
+        {
+            "username": "SXC",
+            "password": "1",
+            "subscription": "tester",
+            "expiry": "2025-12-31",
+            "device_id": "1a5776fb6164845c"
+        },
+        {
+            "username": "owner",
+            "password": "faiz",
+            "subscription": "owner",
+            "expiry": "2030-12-31",
+            "device_id": "4c80247437b71149"
+        }
+    ]
+}
